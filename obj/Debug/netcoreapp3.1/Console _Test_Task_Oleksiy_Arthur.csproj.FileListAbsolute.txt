@@ -1,0 +1,15 @@
+C:\Users\Артур\source\repos\Console _Test_Task_Oleksiy_Arthur\bin\Debug\netcoreapp3.1\Console _Test_Task_Oleksiy_Arthur.exe
+C:\Users\Артур\source\repos\Console _Test_Task_Oleksiy_Arthur\bin\Debug\netcoreapp3.1\Console _Test_Task_Oleksiy_Arthur.deps.json
+C:\Users\Артур\source\repos\Console _Test_Task_Oleksiy_Arthur\bin\Debug\netcoreapp3.1\Console _Test_Task_Oleksiy_Arthur.runtimeconfig.json
+C:\Users\Артур\source\repos\Console _Test_Task_Oleksiy_Arthur\bin\Debug\netcoreapp3.1\Console _Test_Task_Oleksiy_Arthur.runtimeconfig.dev.json
+C:\Users\Артур\source\repos\Console _Test_Task_Oleksiy_Arthur\bin\Debug\netcoreapp3.1\Console _Test_Task_Oleksiy_Arthur.dll
+C:\Users\Артур\source\repos\Console _Test_Task_Oleksiy_Arthur\bin\Debug\netcoreapp3.1\Console _Test_Task_Oleksiy_Arthur.pdb
+C:\Users\Артур\source\repos\Console _Test_Task_Oleksiy_Arthur\obj\Debug\netcoreapp3.1\Console _Test_Task_Oleksiy_Arthur.csprojAssemblyReference.cache
+C:\Users\Артур\source\repos\Console _Test_Task_Oleksiy_Arthur\obj\Debug\netcoreapp3.1\Console _Test_Task_Oleksiy_Arthur.AssemblyInfoInputs.cache
+C:\Users\Артур\source\repos\Console _Test_Task_Oleksiy_Arthur\obj\Debug\netcoreapp3.1\Console _Test_Task_Oleksiy_Arthur.AssemblyInfo.cs
+C:\Users\Артур\source\repos\Console _Test_Task_Oleksiy_Arthur\obj\Debug\netcoreapp3.1\Console _Test_Task_Oleksiy_Arthur.csproj.CoreCompileInputs.cache
+C:\Users\Артур\source\repos\Console _Test_Task_Oleksiy_Arthur\obj\Debug\netcoreapp3.1\Console _Test_Task_Oleksiy_Arthur.dll
+C:\Users\Артур\source\repos\Console _Test_Task_Oleksiy_Arthur\obj\Debug\netcoreapp3.1\Console _Test_Task_Oleksiy_Arthur.pdb
+C:\Users\Артур\source\repos\Console _Test_Task_Oleksiy_Arthur\obj\Debug\netcoreapp3.1\Console _Test_Task_Oleksiy_Arthur.genruntimeconfig.cache
+C:\Users\Артур\source\repos\Console _Test_Task_Oleksiy_Arthur\bin\Debug\netcoreapp3.1\CodeHollow.FeedReader.dll
+C:\Users\Артур\source\repos\Console _Test_Task_Oleksiy_Arthur\obj\Debug\netcoreapp3.1\Console _Test_Task_Oleksiy_Arthur.csproj.CopyComplete
